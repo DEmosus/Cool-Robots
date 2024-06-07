@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cool-Robots/static/css/main.2cceb817.css",
+    "main.js": "/Cool-Robots/static/js/main.acf3faab.js",
+    "static/js/453.c3d5fa90.chunk.js": "/Cool-Robots/static/js/453.c3d5fa90.chunk.js",
+    "index.html": "/Cool-Robots/index.html",
+    "main.2cceb817.css.map": "/Cool-Robots/static/css/main.2cceb817.css.map",
+    "main.acf3faab.js.map": "/Cool-Robots/static/js/main.acf3faab.js.map",
+    "453.c3d5fa90.chunk.js.map": "/Cool-Robots/static/js/453.c3d5fa90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cceb817.css",
+    "static/js/main.acf3faab.js"
+  ]
+}
